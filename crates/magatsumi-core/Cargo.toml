@@ -1,0 +1,13 @@
+[package]
+name = "magatsumi-core"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+alloy-provider.workspace = true
+alloy-rpc-types.workspace = true
+anyhow.workspace = true
+async-trait.workspace = true
+rayon.workspace = true
+tokio-stream.workspace = true
+utils.workspace = true
