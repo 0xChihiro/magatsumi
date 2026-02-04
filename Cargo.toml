@@ -1,6 +1,6 @@
 [workspace]
 
-members = ["bin/magatsumi", "crates/magatsumi-core", "crates/portfolio", "crates/utils"]
+members = ["bin/magatsumi", "crates/apperance", "crates/magatsumi-core", "crates/portfolio", "crates/utils"]
 
 default-member = "bin/magatsumi"
 
